@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Ciao, sono Giorgio Crescenza
 
-<!--
-**gcrescenza/gcrescenza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Chi sono
+Studente di **Informatica presso l'Università degli Studi di Bari**. 
+Questo profilo raccoglie i miei progetti accademici, le esercitazioni e i miei percorsi di apprendimento nel mondo dello sviluppo software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Competenze Tecniche
+* **Linguaggi:** Java, Python, C, SQL
+* **Tecnologie:** Git, GitHub, Database Relazionali
+* **Interessi:** Sviluppo Software, Algoritmi, Data Science
+
+---
+
+### 📫 Contatti
+* **Email:** `gcrescenza@gmail.com`
+* **LinkedIn:** https://www.linkedin.com/in/giorgio-crescenza-810554165/
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gcrescenza&show_icons=true&theme=distinguished&hide_border=true" alt="GitHub Stats" width="400" />
+</p>
